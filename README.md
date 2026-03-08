@@ -1,1 +1,13 @@
-Hi
+- Build a centralized, reusable code repository to standardize and automate your entire CI/CD pipeline logic.
+- Set up a cloud-based environment on GCP featuring a functional Minikube cluster to orchestrate and host your containerized applications.-
+- create a workflow that automatically handles code checkout, Docker image creation, and pushing to DockerHub.
+
+-Python
+-Jenkins
+-Docker
+-Kubernetes
+-GitHub
+-Scikit Learn
+-GCP
+-Html
+-Css
