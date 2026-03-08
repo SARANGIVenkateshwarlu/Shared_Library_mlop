@@ -1,0 +1,5 @@
+venv/
+MLOPS_PROJECT_9.egg-info/
+logs/
+.python-version
+.venv

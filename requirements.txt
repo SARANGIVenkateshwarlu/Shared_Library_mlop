@@ -1,0 +1,9 @@
+# uv add -r requirements.txt
+pandas
+numpy
+scikit-learn
+flask
+joblib
+matplotlib
+seaborn
+ipykernel
